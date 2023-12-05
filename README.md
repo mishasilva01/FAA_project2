@@ -16,7 +16,7 @@ Critical bending moment of uniform and tapered beams. Compare the Neural Network
 
 ### Tasks
 1. Data visualization
-2. Feature generation and selection
+2. Feature generation and selection (L1-based, SelectKBest, Info gain, correlation)
 3. Data normalization
 4. Modeling
 5. Cost function study
